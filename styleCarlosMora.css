@@ -5,13 +5,13 @@ img{
 
 }
 li{
-<<<<<<< HEAD
+
     font-family:'Lucida Sans Unicode'
 }
 body{
     background-color: cornflowerblue;
 }
-=======
+body{
     font-family:'Lucida Sans Unicode';
     text-align: center;
 }
@@ -19,4 +19,4 @@ body{
     background-color: blueviolet;
    text-align: center;
 }
->>>>>>> CarlosMoraJavaScript
+
